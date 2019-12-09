@@ -1,0 +1,33 @@
+h2:hover{
+  color: white ;
+  box-shadow: none;
+}
+
+h2{
+  margin-top: 50px;
+  margin-bottom: 70px;
+  background-color: lightgray;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px grey;
+}
+
+img{
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px grey;
+}
+
+img:hover{
+  box-shadow: none;
+}
+
+a{
+  color: black;
+}
+
+h5:hover{
+  color: orange;
+}
+
+a p:hover{
+  color:red;
+}
