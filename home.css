@@ -1,0 +1,19 @@
+h4{
+  color: red;
+  text-shadow: 1px 1px 1px grey;
+}
+
+h4:hover{
+  color: black;
+  text-shadow: none;
+}
+
+h6{
+
+}
+
+h6:hover{
+  color:red;
+  text-shadow: 1px 1px 1px grey;
+  margin-bottom: 10px;
+}
